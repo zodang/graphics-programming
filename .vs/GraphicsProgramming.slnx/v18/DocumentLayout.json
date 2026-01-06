@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{0D7ACEDF-8449-40F2-93A2-FF66C667A0D2}|GraphicsProgramming\\GraphicsProgramming.vcxproj|C:\\PROJECTS\\GraphicsProgramming\\GraphicsProgramming\\_myApp_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0D7ACEDF-8449-40F2-93A2-FF66C667A0D2}|GraphicsProgramming\\GraphicsProgramming.vcxproj|solutionrelative:GraphicsProgramming\\_myApp_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1B5DC1-A0CA-47F8-889E-78CAADC7CD95}|examples\\Week01_Basics\\Ex_01_DrawPoint\\Ex_01_DrawPoint.vcxproj|C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B1B5DC1-A0CA-47F8-889E-78CAADC7CD95}|examples\\Week01_Basics\\Ex_01_DrawPoint\\Ex_01_DrawPoint.vcxproj|solutionrelative:examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C96192E9-3D09-45A2-86AA-30D2A264AEF5}|examples\\Week01_Basics\\Ex_02_DrawTriangle\\Ex_02_DrawTriangle.vcxproj|C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_02_DrawTriangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C96192E9-3D09-45A2-86AA-30D2A264AEF5}|examples\\Week01_Basics\\Ex_02_DrawTriangle\\Ex_02_DrawTriangle.vcxproj|solutionrelative:examples\\Week01_Basics\\Ex_02_DrawTriangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,9 +36,35 @@
               "RelativeDocumentMoniker": "GraphicsProgramming\\_myApp_.cpp",
               "ToolTip": "C:\\PROJECTS\\GraphicsProgramming\\GraphicsProgramming\\_myApp_.cpp",
               "RelativeToolTip": "GraphicsProgramming\\_myApp_.cpp",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAswDwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-01T14:32:45.941Z",
+              "WhenOpened": "2026-01-06T08:14:58.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp",
+              "RelativeDocumentMoniker": "examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp",
+              "ToolTip": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp",
+              "RelativeToolTip": "examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T07:41:58.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_02_DrawTriangle\\main.cpp",
+              "RelativeDocumentMoniker": "examples\\Week01_Basics\\Ex_02_DrawTriangle\\main.cpp",
+              "ToolTip": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_02_DrawTriangle\\main.cpp",
+              "RelativeToolTip": "examples\\Week01_Basics\\Ex_02_DrawTriangle\\main.cpp",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-06T07:42:03.13Z",
               "EditorCaption": ""
             }
           ]
