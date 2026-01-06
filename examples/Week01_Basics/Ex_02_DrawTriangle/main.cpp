@@ -16,9 +16,9 @@ public:
 			"void main(void) \n"
 			"{ \n"
 			"const vec4 positions[3] = vec4[3](	\n"
-			"vec4(0.25, -0.25, 0.5, 1.0),	\n"
-			"vec4(-0.25, 0.25, 0.5, 1.0),	\n"
-			"vec4(0.25, 0.25, 0.5, 1.0));	\n"
+			"vec4(0.0, 0.5, 0.0, 1.0),		\n"
+			"vec4(-0.5, -0.5, 0.0, 1.0),	\n"
+			"vec4(0.5, -0.5, 0.0, 1.0));	\n"
 			"gl_Position = positions[gl_VertexID]; \n"
 			"} \n"
 		};
@@ -69,7 +69,11 @@ public:
 
 	virtual void render(double currentTime)
 	{
-		const GLfloat backgroundColor[] = { 0.2f, 0.3f, 0.3f, 1.0f };
+		const GLfloat backgroundColor[] = {
+			(float)cos(currentTime) * 0.5f + 0.5f,
+			(float)sin(currentTime) * 0.5f + 0.5f,
+			(float)cos(currentTime) * 0.5f + 0.5f,
+			1.0f };
 		glClearBufferfv(GL_COLOR, 0, backgroundColor);
 
 		glUseProgram(rendering_program);
