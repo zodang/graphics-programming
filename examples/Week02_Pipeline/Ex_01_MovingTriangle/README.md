@@ -1,4 +1,4 @@
-# Ex_02_DrawTriangle
+# Ex_01_MovingTriangle
 render() 함수의 currentTime 값에 따라 이동하는 삼각형을 렌더링하는 예제이다.
 <br/>
 

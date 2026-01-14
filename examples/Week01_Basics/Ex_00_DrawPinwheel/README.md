@@ -1,4 +1,4 @@
-# Ex_01_DrawPoint
+# Ex_00_DrawPinwheel
 삼각형 4개로 바람개비를 렌더링하는 예제이다.
 <br/>
 
