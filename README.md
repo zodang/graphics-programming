@@ -51,6 +51,6 @@ F5 혹은 ctrl+F5로 OpenGL 프로젝트를 실행합니다.
 | Week | Project | Description |
 |-----:|---------|-------------|
 | Week01 | [Ex_00_DrawPinwheel](examples/Week01_Basics/Ex_00_DrawPinwheel) | gl_VertexID를 사용하여 별도의 버텍스 버퍼 없이 여러 개의 삼각형을 렌더링하는 예제 |
-|        | [Ex_01_DrawPoint](examples/Week01_Basics/Ex_01_DrawPointl) | OpenGL 렌더링의 최소 구성 요소와 단일 점을 렌더링 하는 예제 |
+|        | [Ex_01_DrawPoint](examples/Week01_Basics/Ex_01_DrawPoint) | OpenGL 렌더링의 최소 구성 요소와 단일 점을 렌더링 하는 예제 |
 |        | [Ex_02_DrawTriangle](examples/Week01_Basics/Ex_02_DrawTriangle) | glDrawArrays로 삼각형을 렌더링하고, 시간 값에 따라 배경색을 변화시키는 예제 |
 | Week02 | [Ex_01_MovingTriangle](examples/Week02_Pipeline/Ex_01_MovingTriangle) | Vertex Attribute를 통해 값을 셰이더로 전달하여 이동하는 삼각형을 렌더링하는 예제 |
