@@ -3,5 +3,7 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
+  <Project Path="examples/Week01_Basics/Ex_00_DrawPinwheel/Ex_00_DrawPinwheel.vcxproj" Id="d81b4b22-485d-4ac5-8917-0b2f8d663a5b" />
+  <Project Path="examples/Week01_Basics/Ex_01_DrawPoint/Ex_01_DrawPoint.vcxproj" Id="1b1b5dc1-a0ca-47f8-889e-78caadc7cd95" />
   <Project Path="examples/Week02_Pipeline/Ex_01_MovingTriangle/Ex_01_MovingTriangle.vcxproj" Id="1b1efd51-8d1c-49f9-a39e-2555b0a73143" />
 </Solution>

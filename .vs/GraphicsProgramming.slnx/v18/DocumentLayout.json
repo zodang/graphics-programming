@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\PROJECTS\\GraphicsProgramming\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D81B4B22-485D-4AC5-8917-0B2F8D663A5B}|examples\\Week01_Basics\\Ex_00_DrawPinwheel\\Ex_00_DrawPinwheel.vcxproj|C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_00_DrawPinwheel\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D81B4B22-485D-4AC5-8917-0B2F8D663A5B}|examples\\Week01_Basics\\Ex_00_DrawPinwheel\\Ex_00_DrawPinwheel.vcxproj|solutionrelative:examples\\Week01_Basics\\Ex_00_DrawPinwheel\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1B5DC1-A0CA-47F8-889E-78CAADC7CD95}|examples\\Week01_Basics\\Ex_01_DrawPoint\\Ex_01_DrawPoint.vcxproj|C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B1B5DC1-A0CA-47F8-889E-78CAADC7CD95}|examples\\Week01_Basics\\Ex_01_DrawPoint\\Ex_01_DrawPoint.vcxproj|solutionrelative:examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1B1EFD51-8D1C-49F9-A39E-2555B0A73143}|examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\Ex_01_MovingTriangle.vcxproj|C:\\PROJECTS\\GraphicsProgramming\\examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1B1EFD51-8D1C-49F9-A39E-2555B0A73143}|examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\Ex_01_MovingTriangle.vcxproj|solutionrelative:examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -20,14 +28,40 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
+              "DocumentMoniker": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_00_DrawPinwheel\\main.cpp",
+              "RelativeDocumentMoniker": "examples\\Week01_Basics\\Ex_00_DrawPinwheel\\main.cpp",
+              "ToolTip": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_00_DrawPinwheel\\main.cpp",
+              "RelativeToolTip": "examples\\Week01_Basics\\Ex_00_DrawPinwheel\\main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-14T13:12:38.594Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp",
+              "RelativeDocumentMoniker": "examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp",
+              "ToolTip": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp",
+              "RelativeToolTip": "examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-14T15:42:04.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
               "DocumentMoniker": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\main.cpp",
               "RelativeDocumentMoniker": "examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\main.cpp",
-              "ToolTip": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\main.cpp*",
-              "RelativeToolTip": "examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\main.cpp*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "ToolTip": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\main.cpp",
+              "RelativeToolTip": "examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\main.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-08T07:44:17.473Z",
-              "IsPinned": true,
+              "WhenOpened": "2026-01-14T14:56:47.601Z",
               "EditorCaption": ""
             },
             {
