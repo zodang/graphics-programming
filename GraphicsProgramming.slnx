@@ -3,7 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="examples/Week01_Basics/Ex_01_DrawPoint/Ex_01_DrawPoint.vcxproj" Id="1b1b5dc1-a0ca-47f8-889e-78caadc7cd95" />
-  <Project Path="examples/Week01_Basics/Ex_02_DrawTriangle/Ex_02_DrawTriangle.vcxproj" Id="c96192e9-3d09-45a2-86aa-30d2a264aef5" />
-  <Project Path="GraphicsProgramming/GraphicsProgramming.vcxproj" Id="0d7acedf-8449-40f2-93a2-ff66c667a0d2" />
+  <Project Path="examples/Week02_Pipeline/Ex_01_MovingTriangle/Ex_01_MovingTriangle.vcxproj" Id="1b1efd51-8d1c-49f9-a39e-2555b0a73143" />
 </Solution>

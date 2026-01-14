@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\PROJECTS\\GraphicsProgramming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D7ACEDF-8449-40F2-93A2-FF66C667A0D2}|GraphicsProgramming\\GraphicsProgramming.vcxproj|C:\\PROJECTS\\GraphicsProgramming\\GraphicsProgramming\\_myApp_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0D7ACEDF-8449-40F2-93A2-FF66C667A0D2}|GraphicsProgramming\\GraphicsProgramming.vcxproj|solutionrelative:GraphicsProgramming\\_myApp_.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B1B5DC1-A0CA-47F8-889E-78CAADC7CD95}|examples\\Week01_Basics\\Ex_01_DrawPoint\\Ex_01_DrawPoint.vcxproj|C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1B1B5DC1-A0CA-47F8-889E-78CAADC7CD95}|examples\\Week01_Basics\\Ex_01_DrawPoint\\Ex_01_DrawPoint.vcxproj|solutionrelative:examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C96192E9-3D09-45A2-86AA-30D2A264AEF5}|examples\\Week01_Basics\\Ex_02_DrawTriangle\\Ex_02_DrawTriangle.vcxproj|C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_02_DrawTriangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C96192E9-3D09-45A2-86AA-30D2A264AEF5}|examples\\Week01_Basics\\Ex_02_DrawTriangle\\Ex_02_DrawTriangle.vcxproj|solutionrelative:examples\\Week01_Basics\\Ex_02_DrawTriangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1B1EFD51-8D1C-49F9-A39E-2555B0A73143}|examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\Ex_01_MovingTriangle.vcxproj|C:\\PROJECTS\\GraphicsProgramming\\examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B1EFD51-8D1C-49F9-A39E-2555B0A73143}|examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\Ex_01_MovingTriangle.vcxproj|solutionrelative:examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_myApp_.cpp",
-              "DocumentMoniker": "C:\\PROJECTS\\GraphicsProgramming\\GraphicsProgramming\\_myApp_.cpp",
-              "RelativeDocumentMoniker": "GraphicsProgramming\\_myApp_.cpp",
-              "ToolTip": "C:\\PROJECTS\\GraphicsProgramming\\GraphicsProgramming\\_myApp_.cpp",
-              "RelativeToolTip": "GraphicsProgramming\\_myApp_.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\main.cpp",
+              "RelativeDocumentMoniker": "examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\main.cpp",
+              "ToolTip": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\main.cpp",
+              "RelativeToolTip": "examples\\Week02_Pipeline\\Ex_01_MovingTriangle\\main.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-06T08:14:58.338Z",
+              "WhenOpened": "2026-01-08T07:44:17.473Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp",
-              "RelativeDocumentMoniker": "examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp",
-              "ToolTip": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp",
-              "RelativeToolTip": "examples\\Week01_Basics\\Ex_01_DrawPoint\\main.cpp",
-              "ViewState": "AgIAADkAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-06T07:41:58.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_02_DrawTriangle\\main.cpp",
-              "RelativeDocumentMoniker": "examples\\Week01_Basics\\Ex_02_DrawTriangle\\main.cpp",
-              "ToolTip": "C:\\PROJECTS\\GraphicsProgramming\\examples\\Week01_Basics\\Ex_02_DrawTriangle\\main.cpp",
-              "RelativeToolTip": "examples\\Week01_Basics\\Ex_02_DrawTriangle\\main.cpp",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-01-06T07:42:03.13Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
